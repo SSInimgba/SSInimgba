@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I enjoy solving problems with machine learning while growing my expertise
+I am Sam. I enjoy solving problems with machine learning while growing my expertise. 
 
 ## Let's connect! 
 - [Linkedin](https://www.linkedin.com/in/samantha-sam-inimgba/)
